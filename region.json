@@ -1,0 +1,13 @@
+{
+ "size": 56479593,
+ "partSize": 1048576,
+ "parts": 54,
+ "prefix": "region-",
+ "ext": ".bin",
+ "builtAt": "2026-11-25T20:35:28.055Z",
+ "shardParts": 40,
+ "shardTags": [
+  "v3",
+  "v3-2"
+ ]
+}
