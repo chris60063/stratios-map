@@ -1,0 +1,12 @@
+{
+ "size": 28351211,
+ "partSize": 1048576,
+ "parts": 28,
+ "prefix": "relief-",
+ "ext": ".bin",
+ "builtAt": "2026-11-26T00:02:21.211Z",
+ "shardParts": 40,
+ "shardTags": [
+  "relief1"
+ ]
+}
